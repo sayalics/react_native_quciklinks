@@ -1,0 +1,14 @@
+com/react_native_quicklinks/ReactNativeFlipper.java
+ com.react_native_quicklinks.ReactNativeFlipper
+ com.react_native_quicklinks.ReactNativeFlipper$1
+ com.react_native_quicklinks.ReactNativeFlipper$2
+ com.react_native_quicklinks.ReactNativeFlipper$2$1
+com/react_native_quicklinks/BuildConfig.java
+ com.react_native_quicklinks.BuildConfig
+com/react_native_quicklinks/MainApplication.java
+ com.react_native_quicklinks.MainApplication
+ com.react_native_quicklinks.MainApplication$1
+com/react_native_quicklinks/MainActivity.java
+ com.react_native_quicklinks.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
